@@ -1,6 +1,7 @@
 # GREEN PARADISE
 
-This website uses html, css, javascript and bootstrap, as well as the tools used by vscode.
+This website uses html, css, javascript and bootstrap, as well as the tools used by vscode. <br>
+To see the results visit this link : [https://dexalius.github.io/slicing_company_profile/](https://dexalius.github.io/slicing_company_profile/)
 
 ## Preview
 
